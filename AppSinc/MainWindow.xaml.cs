@@ -49,6 +49,11 @@ namespace AppSinc
 
         private async void Button_Click_1(object sender, RoutedEventArgs e)
         {
+            await RecuperarDados();
+        }
+
+        public async Task RecuperarDados()
+        {
             var client = new HttpClient();
             string url = String.Empty;
 

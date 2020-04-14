@@ -1,0 +1,4 @@
+C:\Artigos\Async_fundamental_Antes\AsyncFundamental\AssincronoFundamental\AsyncFundamental\Data\bin\Debug\Data.dll
+C:\Artigos\Async_fundamental_Antes\AsyncFundamental\AssincronoFundamental\AsyncFundamental\Data\bin\Debug\Data.pdb
+C:\Artigos\Async_fundamental_Antes\AsyncFundamental\AssincronoFundamental\AsyncFundamental\Data\obj\Debug\Data.dll
+C:\Artigos\Async_fundamental_Antes\AsyncFundamental\AssincronoFundamental\AsyncFundamental\Data\obj\Debug\Data.pdb
